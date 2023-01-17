@@ -1,0 +1,70 @@
+body {
+  background: conic-gradient(#553c9a 30%, #ee4b2b 40%, #ee4b2b 70%, #00c2cb 80%, #553c9a);
+}
+
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: conic-gradient(#553c9a 30%, #ee4b2b 40%, #ee4b2b 70%, #00c2cb 80%, #553c9a);
+  color: white;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: conic-gradient(#9685c4 30%, #b48f88 40%, #5e4a46 70%, #4208d4 80%, #7965af);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+
+
+.footer {
+  height: 40px;
+}
+
+.btn{
+  position: relative;
+}
+
+.row {
+  background: conic-gradient(#553c9a 30%, #ee4b2b 40%, #ee4b2b 70%, #00c2cb 80%, #553c9a);
+  min-height: 500px;
+}
+
+
+
+.card {
+  background: conic-gradient(#8b7ab8 30%, #d79c90 40%, #826761 70%, #589b9e 80%, #63538d);
+  border: 5px solid black;
+  
+}
+.work {
+  background-color: yellow;
+  border: 5px solid black;
+}
+.laptops {
+  background-color: brown;
+  border: 5px solid black;
+}
+
+.overview {
+  background-color: aquamarine;
+  border: 5px solid black;
+}
+
+#card-body {
+  display: inline-block;
+}
+
+#payBackLoan {
+  display: none;
+}
+
+#OutstandingLoan {
+  display: none;
+}
+
