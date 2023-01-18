@@ -1,5 +1,9 @@
 # Welcome to Komputer_store_app_Noroff
-This web appliction is about creating a web store application with some simple functions.
+This web appliction is about creating a web store application with some simple functions like:
+- Paid work. 
+- Get loan.
+- Pay back the loan.
+- Pay a laptop.
 # Project Technical Specifications
 - JavaScript
 - HTML
