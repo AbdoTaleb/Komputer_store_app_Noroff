@@ -3,7 +3,7 @@ This web appliction is about creating a web store application with some simple f
 - Paid work. 
 - Get loan.
 - Pay back the loan.
-- Pay a laptop.
+- Buy a laptop.
 # Project Technical Specifications
 - JavaScript
 - HTML
