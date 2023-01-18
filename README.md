@@ -4,6 +4,7 @@ This web appliction is about creating a web store application with some simple f
 - JavaScript
 - HTML
 - CSS
+- Bootstrap 
 # Instructions
 - Download this repository to your computer.
 - Exract files.
